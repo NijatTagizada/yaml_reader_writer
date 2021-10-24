@@ -1,1 +1,1 @@
-A simple command-line application.
+A simple yaml writer and reader application.
