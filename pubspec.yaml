@@ -1,4 +1,4 @@
-name: "dart_yaml_test"
+name: "yaml_reader_writer"
 description: "A simple command-line application."
 version: "1.0.0"
 
